@@ -1,0 +1,2 @@
+execute positioned 3270 51 -13 unless entity @e[type=spark:elevator_button,c=1,r=10] rotated 180 0 align xyz positioned ~0.5 ~ ~0.5 run function spark/tutorial/elevator/debug/summon_buttons
+execute positioned 3270 51 13 unless entity @e[type=spark:elevator_button,c=1,r=10] rotated 0 0 align xyz positioned ~0.5 ~ ~0.5 run function spark/tutorial/elevator/debug/summon_buttons

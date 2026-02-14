@@ -1,0 +1,1 @@
+{"format_version":"1.19.0","minecraft:client_entity":{"description":{"identifier":"spark:dojo_banner","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/spark/entity/environment/lightsaber_dueling/dojo_banner"},"geometry":{"default":"geometry.spark.dojo_banner"},"render_controllers":["controller.render.default"]}}}

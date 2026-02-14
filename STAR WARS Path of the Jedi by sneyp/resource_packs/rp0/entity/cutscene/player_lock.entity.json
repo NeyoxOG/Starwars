@@ -1,0 +1,1 @@
+{"format_version":"1.19.0","minecraft:client_entity":{"description":{"identifier":"spark:cutscene.player_lock","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/spark/entity/empty"},"geometry":{"default":"geometry.spark.empty"},"render_controllers":["controller.render.default"]}}}

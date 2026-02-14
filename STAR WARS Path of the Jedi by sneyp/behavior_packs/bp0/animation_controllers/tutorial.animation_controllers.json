@@ -1,0 +1,1 @@
+{"format_version":"1.19.0","animation_controllers":{"controller.animation.spark.tutorial.tutorial_button":{"states":{"default":{"transitions":[{"pressed":"q.property('spark:activated')"}]},"pressed":{"on_entry":["/function spark/tutorial/start"]}}}}}

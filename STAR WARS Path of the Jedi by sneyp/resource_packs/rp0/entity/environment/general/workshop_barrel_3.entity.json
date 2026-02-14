@@ -1,0 +1,1 @@
+{"format_version":"1.19.0","minecraft:client_entity":{"description":{"identifier":"spark:workshop_barrel_3","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/spark/entity/environment/general/workshop_barrel"},"geometry":{"default":"geometry.spark.workshop_barrel_3"},"render_controllers":["controller.render.default"]}}}

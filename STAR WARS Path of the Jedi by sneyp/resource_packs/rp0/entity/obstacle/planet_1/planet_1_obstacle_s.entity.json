@@ -1,0 +1,1 @@
+{"format_version":"1.19.0","minecraft:client_entity":{"description":{"identifier":"spark:planet_1_obstacle_s","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/spark/entity/obstacle/planet_1/obstacle_s"},"geometry":{"default":"geometry.spark.planet_1_obstacle_s"},"render_controllers":["controller.render.default"]}}}

@@ -1,0 +1,9 @@
+Loop for chapter 3 of the introudction
+
+questions for this
+
+# astromech tool usage
+# currently uses loot, how do we want to lock them to a set slot/ prevent going past 5
+
+polish the overall loop
+hook up force powers

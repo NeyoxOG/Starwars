@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","animations":{"animation.spark.torren_relic.particles":{"loop":true,"animation_length":2,"particle_effects":{"0.0":{"effect":"torren_relic_letters","locator":"orb"},"0.75":{"effect":"torren_relic_shine","locator":"orb"}}}}}

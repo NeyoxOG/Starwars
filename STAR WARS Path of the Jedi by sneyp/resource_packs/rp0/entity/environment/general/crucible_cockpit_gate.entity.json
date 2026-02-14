@@ -1,0 +1,1 @@
+{"format_version":"1.19.0","minecraft:client_entity":{"description":{"identifier":"spark:crucible_cockpit_gate","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/spark/entity/environment/general/crucible_cockpit_gate"},"geometry":{"default":"geometry.spark.crucible_cockpit_gate"},"render_controllers":["controller.render.default"]}}}

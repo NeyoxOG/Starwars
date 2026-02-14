@@ -1,0 +1,1 @@
+{"format_version":"1.20.20","minecraft:item":{"description":{"identifier":"spark:cloak_default"},"components":{"minecraft:icon":{"texture":"cloak_default"},"minecraft:display_name":{"value":"item.spark:cloak_default.name"},"minecraft:max_stack_size":1,"minecraft:wearable":{"slot":"slot.armor.chest"}}}}

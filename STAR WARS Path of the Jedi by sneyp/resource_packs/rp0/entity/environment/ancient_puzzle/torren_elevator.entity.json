@@ -1,0 +1,1 @@
+{"format_version":"1.19.0","minecraft:client_entity":{"description":{"identifier":"spark:torren_elevator","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/spark/entity/environment/ancient_puzzle/torren_elevator"},"geometry":{"default":"geometry.spark.torren_elevator"},"render_controllers":["controller.render.default"]}}}

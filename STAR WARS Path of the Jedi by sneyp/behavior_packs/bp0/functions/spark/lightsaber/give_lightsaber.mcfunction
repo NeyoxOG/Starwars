@@ -1,0 +1,1 @@
+event entity @s update_lightsaber

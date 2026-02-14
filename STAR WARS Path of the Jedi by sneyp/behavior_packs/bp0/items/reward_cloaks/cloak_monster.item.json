@@ -1,0 +1,1 @@
+{"format_version":"1.20.20","minecraft:item":{"description":{"identifier":"spark:cloak_monster"},"components":{"minecraft:icon":{"texture":"cloak_monster"},"minecraft:display_name":{"value":"item.spark:cloak_monster.name"},"minecraft:max_stack_size":1,"minecraft:wearable":{"slot":"slot.armor.chest"}}}}

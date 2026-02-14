@@ -1,0 +1,1 @@
+{"format_version":"1.12.0","minecraft:geometry":[{"description":{"identifier":"geometry.spark.kyber_crystal_flare","texture_width":64,"texture_height":16,"visible_bounds_width":38,"visible_bounds_height":10,"visible_bounds_offset":[0,2,0]},"bones":[{"name":"flare","pivot":[0,7.5,0],"cubes":[{"origin":[-32,0,-5],"size":[64,15,0],"uv":{"north":{"uv":[0,0],"uv_size":[64,16]}}}]}]}]}

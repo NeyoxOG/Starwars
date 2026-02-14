@@ -1,0 +1,1 @@
+{"format_version":"1.20.10","animation_controllers":{"controller.animation.torren_button.state":{"initial_state":"unpressed","states":{"unpressed":{"animations":["unpress"],"transitions":[{"pressed":"query.variant == 1"}]},"pressed":{"animations":["press"],"transitions":[{"unpressed":"q.variant != 1"}]}}}}}

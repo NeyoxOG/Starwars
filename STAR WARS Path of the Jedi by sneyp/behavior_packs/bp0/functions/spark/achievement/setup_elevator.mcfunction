@@ -1,0 +1,1 @@
+execute positioned 9011.5 26.00 9159.5 rotated -90 0 run function spark/temple_crafting_rooms/summon_buttons

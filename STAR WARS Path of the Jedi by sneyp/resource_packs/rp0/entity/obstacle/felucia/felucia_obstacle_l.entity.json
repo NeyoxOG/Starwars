@@ -1,0 +1,1 @@
+{"format_version":"1.19.0","minecraft:client_entity":{"description":{"identifier":"spark:felucia_obstacle_l","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/spark/entity/obstacle/felucia/obstacle_l"},"geometry":{"default":"geometry.spark.felucia_obstacle_l"},"render_controllers":["controller.render.default"]}}}

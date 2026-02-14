@@ -1,0 +1,1 @@
+{"animation_controllers":{"controller.animation.spark.dueling.cutscene":{"initial_state":"default","states":{"default":{"transitions":[{"animate":"q.property('spark:cutscene')"}]},"animate":{"animations":["cutscene"]}}}},"format_version":"1.20.10"}

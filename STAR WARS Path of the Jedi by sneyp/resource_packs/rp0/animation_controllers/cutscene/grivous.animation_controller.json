@@ -1,0 +1,1 @@
+{"format_version":"1.19.0","animation_controllers":{"controller.animation.spark.cutscene.grievous.stages":{"states":{"default":{"transitions":[{"play":"q.property('spark:stage') == 'play'"}]},"play":{"animations":["play","guard_fix"],"transitions":[{"default":"q.property('spark:stage') != 'play'"}]}}}}}

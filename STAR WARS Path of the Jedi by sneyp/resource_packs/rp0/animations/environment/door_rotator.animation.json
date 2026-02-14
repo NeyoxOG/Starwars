@@ -1,0 +1,1 @@
+{"format_version":"1.20.10","animations":{"animation.doors.rotate":{"loop":true,"bones":{"root":{"rotation":[0,"q.property('spark:direction_bit') * 90",0]}}}}}

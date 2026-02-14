@@ -1,0 +1,1 @@
+{"format_version":"1.17.0","animations":{"animation.spark.kyber_crystal_item.first_hold":{"loop":true,"bones":{"root_item":{"rotation":[88.0775,-65.75904,143.87501],"position":[6.54485,24.2823,4.72778]}}},"animation.spark.kyber_crystal_item.third_hold":{"loop":true,"bones":{"root_item":{"rotation":[62.5,0,0],"position":[0.4,17.5,-0.75]},"crystal":{"position":[0,0,3]}}}}}

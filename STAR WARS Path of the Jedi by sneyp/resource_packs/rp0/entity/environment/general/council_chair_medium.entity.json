@@ -1,0 +1,1 @@
+{"format_version":"1.19.0","minecraft:client_entity":{"description":{"identifier":"spark:council_chair_medium","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/spark/entity/environment/general/council_chair_medium"},"geometry":{"default":"geometry.spark.council_chair_medium"},"render_controllers":["controller.render.default"]}}}

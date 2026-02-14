@@ -1,0 +1,1 @@
+{"format_version":"1.19.0","minecraft:client_entity":{"description":{"identifier":"spark:kamino_door_large","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/spark/entity/environment/droid_survival/kamino_door_large"},"geometry":{"default":"geometry.spark.kamino_door_large"},"render_controllers":["controller.render.default"]}}}

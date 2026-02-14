@@ -1,0 +1,1 @@
+execute positioned 9200.5 37.00 9000.5 unless entity @e[type=spark:elevator_door,r=10] run summon spark:elevator_door ~~~

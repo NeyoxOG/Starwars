@@ -1,0 +1,1 @@
+{"format_version":"1.19.0","render_controllers":{"controller.render.spark.hologram_small":{"geometry":"Geometry.default","arrays":{"textures":{"array.textures":["texture.holo_1","texture.holo_2","texture.holo_3","texture.holo_4","texture.holo_5"]}},"materials":[{"*":"Material.default"}],"textures":["array.textures[query.property('spark:hologram_type')]"]}}}
