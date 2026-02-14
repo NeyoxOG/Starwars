@@ -1,0 +1,1 @@
+{"format_version":"1.19.0","minecraft:client_entity":{"description":{"identifier":"spark:tatooine_obstacle_s","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/spark/entity/obstacle/tatooine/obstacle_s"},"geometry":{"default":"geometry.spark.tatooine_obstacle_s"},"render_controllers":["controller.render.default"]}}}

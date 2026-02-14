@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animation_controllers":{"controller.animation.spark.duel_opponent.update":{"initial_state":"default","states":{"default":{"transitions":[{"entry":"1"}]},"entry":{"on_entry":["/function spark/dueling/update_leaderboard"]}}}}}

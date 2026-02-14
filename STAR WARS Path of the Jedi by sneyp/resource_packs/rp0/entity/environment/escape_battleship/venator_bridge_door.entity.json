@@ -1,0 +1,1 @@
+{"format_version":"1.19.0","minecraft:client_entity":{"description":{"identifier":"spark:venator_bridge_door","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/spark/entity/environment/escape_battleship/venator_bridge_door"},"geometry":{"default":"geometry.spark.venator_bridge_door"},"render_controllers":["controller.render.default"]}}}

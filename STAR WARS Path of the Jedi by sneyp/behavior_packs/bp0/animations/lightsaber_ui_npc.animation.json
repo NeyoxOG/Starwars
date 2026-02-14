@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","animations":{"animation.spark.lightsaber_ui_npc.align":{"loop":true,"animation_length":1,"timeline":{"0":["/tp @s[ry = -135, rym = -180] ~ ~ ~ 180 ~","/tp @s[ry = -45, rym = -135] ~ ~ ~ -90 ~","/tp @s[ry = 45, rym = -45] ~ ~ ~ 0 ~","/tp @s[ry = 135, rym = 45] ~ ~ ~ 90 ~","/tp @s[rym = 135] ~ ~ ~ 180 ~"]}}}}

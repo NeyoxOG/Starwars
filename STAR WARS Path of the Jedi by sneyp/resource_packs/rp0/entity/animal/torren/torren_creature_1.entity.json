@@ -1,0 +1,1 @@
+{"format_version":"1.19.0","minecraft:client_entity":{"description":{"identifier":"spark:torren_creature_1","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/spark/entity/animal/torren/torren_creature_1"},"geometry":{"default":"geometry.spark.torren_creature_1"},"render_controllers":["controller.render.default"]}}}

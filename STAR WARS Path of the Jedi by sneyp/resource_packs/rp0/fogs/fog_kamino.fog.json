@@ -1,0 +1,1 @@
+{"format_version":"1.16.100","minecraft:fog_settings":{"description":{"identifier":"spark:fog_kamino"},"distance":{"air":{"render_distance_type":"fixed","fog_start":30,"fog_end":140,"fog_color":"#08222a"}},"volumetric":{"density":{"air":{"max_density":0.05,"uniform":false,"max_density_height":120,"zero_density_height":121}}}}}

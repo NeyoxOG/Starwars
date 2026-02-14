@@ -1,0 +1,1 @@
+{"format_version":"1.20.0","minecraft:block":{"description":{"identifier":"spark:force_box_collision","menu_category":{"category":"construction"}},"components":{"minecraft:map_color":"#111111","minecraft:geometry":"geometry.spark.empty","minecraft:light_dampening":0,"minecraft:material_instances":{"*":{"texture":"stone","render_method":"opaque"}}}}}

@@ -1,0 +1,1 @@
+{"format_version":"1.19.0","render_controllers":{"controller.render.spark.ship_emergency_light":{"geometry":"Geometry.default","materials":[{"*":"Material.default"},{"beacon":"Material.emissive"},{"light_*":"Material.beam"}],"textures":["Texture.default"]}}}

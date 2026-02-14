@@ -1,0 +1,9 @@
+particle spark:dreadnaught_hangar_shield_br 6125.0 -48.5 3163.0
+particle spark:dreadnaught_hangar_shield_bl 6125.0 -48.5 3068.0
+particle spark:dreadnaught_hangar_shield_tr 6125.0 -33.5 3163.0
+particle spark:dreadnaught_hangar_shield_tl 6125.0 -33.5 3068.0
+particle spark:dreadnaught_hangar_shield_b 6125.0 -48.5 3115.5
+particle spark:dreadnaught_hangar_shield_t 6125.0 -33.5 3115.5
+particle spark:dreadnaught_hangar_shield_r 6125.0 -41.0 3163.0
+particle spark:dreadnaught_hangar_shield_l 6125.0 -41.0 3068.0
+particle spark:dreadnaught_hangar_shield_m 6125.0 -41.0 3115.5

@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","render_controllers":{"controller.render.spark.clone_trooper":{"arrays":{"textures":{"Array.color":["texture.default","texture.color_1","texture.color_2","texture.color_3"]}},"geometry":"Geometry.default","materials":[{"*":"Material.default"}],"textures":["array.color[q.property('spark:color')]"]}}}

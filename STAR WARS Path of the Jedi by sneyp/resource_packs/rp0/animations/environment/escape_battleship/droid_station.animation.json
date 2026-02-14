@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","animations":{"animation.spark.droid_station.rotation":{"loop":true,"bones":{"root":{"rotation":[0,"90 * q.property('spark:direction')",0]}}},"animation.spark.droid_station.flash":{"loop":true,"animation_length":2,"bones":{"flashing_light":{"position":{"0.0":{"pre":[0,0,0],"post":[0,0,-1]},"0.3333":{"pre":[0,0,-1],"post":[0,0,0]}}}}}}}

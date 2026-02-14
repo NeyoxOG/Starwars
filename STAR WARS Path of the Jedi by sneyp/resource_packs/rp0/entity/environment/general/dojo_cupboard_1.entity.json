@@ -1,0 +1,1 @@
+{"format_version":"1.19.0","minecraft:client_entity":{"description":{"identifier":"spark:dojo_cupboard_1","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/spark/entity/environment/general/dojo_cupboard"},"geometry":{"default":"geometry.spark.dojo_cupboard_1"},"render_controllers":["controller.render.default"]}}}

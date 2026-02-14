@@ -1,0 +1,1 @@
+{"format_version":"1.16.100","minecraft:fog_settings":{"description":{"identifier":"spark:fog_torren"},"distance":{"air":{"render_distance_type":"fixed","fog_start":2,"fog_end":210,"fog_color":"#e57c0b"}},"volumetric":{"density":{"air":{"max_density":0.05,"uniform":true}}}}}

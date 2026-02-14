@@ -1,0 +1,1 @@
+{"format_version":"1.19.0","animation_controllers":{"controller.animation.spark.cutscene.monsters.stages":{"states":{"default":{"transitions":[{"play":"q.property('spark:stage') == 'play'"}]},"play":{"animations":["play"],"transitions":[{"default":"q.property('spark:stage') != 'play'"}]}}}}}

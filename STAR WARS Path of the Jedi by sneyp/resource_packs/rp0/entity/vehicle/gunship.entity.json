@@ -1,0 +1,1 @@
+{"format_version":"1.19.0","minecraft:client_entity":{"description":{"identifier":"spark:gunship","materials":{"default":"cutscene_skybox_renderer"},"textures":{"default":"textures/spark/entity/vehicle/gunship"},"geometry":{"default":"geometry.spark.gunship"},"render_controllers":["controller.render.default"]}}}

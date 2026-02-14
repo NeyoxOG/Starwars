@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","render_controllers":{"controller.render.spark.quest_icon":{"geometry":"Geometry.quest_icon","materials":[{"*":"Material.quest_icon"}],"textures":["Texture.quest_icon"],"ignore_lighting":true,"light_color_multiplier":"0.8"}}}

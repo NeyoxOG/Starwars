@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animation_controllers":{"controller.animation.spark.starfighter.main":{"initial_state":"default","states":{"default":{"transitions":[{"fly":"v.in_air"}],"blend_transition":0.2},"fly":{"animations":["fly"],"transitions":[{"default":"!v.in_air"}],"blend_transition":0.2}}}}}
